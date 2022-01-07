@@ -26,5 +26,6 @@ namespace Design_Patterns_Assignment.Decorator
         {
             throw new NotImplementedException();
         }
+
     }
 }

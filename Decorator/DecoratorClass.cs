@@ -33,6 +33,8 @@ namespace Design_Patterns_Assignment
             Console.WriteLine("Please enter the text");  
             
             var decor = Factory.CreateText();
+      
+
 
             decor.SetUserInput();
 

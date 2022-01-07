@@ -11,10 +11,10 @@ namespace ConsoleApp1
         {
             // Kan endast köra en i taget!! 
 
-            DecoratorClass.Run();
-            RepositoryClass.Run();
-            StrategyClass.Run();
-            ObserverClass.Run();
+           // DecoratorClass.Run();
+           // RepositoryClass.Run();
+           // StrategyClass.Run();
+           // ObserverClass.Run();
 
         }
     }

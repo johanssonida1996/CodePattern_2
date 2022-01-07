@@ -8,7 +8,7 @@ namespace Design_Patterns_Assignment.Observer.ObserverFiles
 {
     public interface IObserver
     {
-        public void Update();
+        public void Update(string message);
      
     }
 }

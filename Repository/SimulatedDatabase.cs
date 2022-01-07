@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Design_Patterns_Assignment
 {
-    public class SimulatedDatabase : IDataRepository
+    public class SimulatedDatabase
     {
         public string Load(string v)
         {
